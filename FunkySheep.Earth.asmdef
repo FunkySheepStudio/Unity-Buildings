@@ -1,0 +1,19 @@
+{
+    "name": "FunkySheep.Buildings",
+    "rootNamespace": "",
+    "references": [
+        "GUID:1826c0224c0d048b88112c79bbb0cd85",
+        "GUID:9523c4d4c693b4b4696497f3680118c7",
+        "GUID:561cd3090aa423b4584912885a62ef6f",
+        "GUID:6780ef107b1e13c43aba3f074716af3e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

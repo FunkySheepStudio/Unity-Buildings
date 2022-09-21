@@ -1,0 +1,27 @@
+{
+  "name": "net.funkysheep.unity.buildings",
+  "displayName": "FunkySheep Unity Buildings Library",
+  "version": "0.1.0",
+  "unity": "2020.3",
+  "description": "FunkySheep framework Buildings Library",
+  "keywords": [
+    "Buildings",
+    "Unity",
+    "Android",
+    "IOS"
+  ],
+  "category": "Buildings",
+  "changelogUrl": "https://github.com/FunkySheepStudio/Unity-Earth/blob/main/CHANGELOG.md",
+  "dependencies": {
+    "net.funkysheep.unity.vectors": "0.1.0"
+  },
+  "scopedRegistries": [
+    {
+      "name": "npmjs",
+      "url": "https://registry.npmjs.org",
+      "scopes": [
+        "net.funkysheep"
+      ]
+    }
+  ]
+}
