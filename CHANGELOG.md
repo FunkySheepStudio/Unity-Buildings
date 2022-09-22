@@ -1,3 +1,7 @@
+## Version 0.1.8 (September 22, 2022)
+- **Bug Fixes**
+  - Update assembly definition and clean
+
 ## Version 0.1.7 (September 22, 2022)
 - **Bug Fixes**
   - Update version for NPM package publication

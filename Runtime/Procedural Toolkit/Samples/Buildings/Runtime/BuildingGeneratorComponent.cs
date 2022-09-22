@@ -16,7 +16,7 @@ namespace ProceduralToolkit.Samples.Buildings
         private RoofConstructor roofConstructor = null;
         public PolygonAsset foundationPolygon = null;
         [SerializeField]
-        private BuildingGenerator.Config config = new BuildingGenerator.Config();
+        public BuildingGenerator.Config config = new BuildingGenerator.Config();
 
         public Transform Generate(Transform transform)
         {
