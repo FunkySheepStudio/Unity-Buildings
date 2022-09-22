@@ -1,7 +1,7 @@
 {
   "name": "net.funkysheep.unity.buildings",
   "displayName": "FunkySheep Unity Buildings Library",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "unity": "2020.3",
   "description": "FunkySheep framework Buildings Library",
   "keywords": [
