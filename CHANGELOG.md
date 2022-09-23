@@ -1,3 +1,7 @@
+## Version 0.1.9 (September 23, 2022)
+- **Bug Fixes**
+  - Fix Building Entrance bug
+
 ## Version 0.1.8 (September 22, 2022)
 - **Bug Fixes**
   - Update assembly definition and clean

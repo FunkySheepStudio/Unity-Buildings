@@ -137,8 +137,11 @@ namespace ProceduralToolkit.Samples.Buildings
                 int entranceIndex = (i + 1)*entranceIndexInterval + i;
 
                 horizontal.Add(CreateNormalFacadeVertical(panelSizes, lastEntranceIndex + 1, entranceIndex, floors, hasAttic, hasBalconies));
-
-                horizontal.Add(CreateEntranceVertical(sizeValues[panelSizes[entranceIndex]], floors, hasAttic));
+                
+                if (panelSizes.Count != 0)
+                {
+                    horizontal.Add(CreateEntranceVertical(sizeValues[panelSizes[entranceIndex]], floors, hasAttic));
+                }
 
                 if (i == entranceCount - 1)
                 {
